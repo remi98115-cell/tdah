@@ -66,3 +66,7 @@ main {
     transform: scale(1.03);
     transition: 0,2s;
 }
+
+.fidget h3 {
+    font-size: 20px;
+}
