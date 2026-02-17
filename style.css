@@ -50,3 +50,15 @@ main {
     padding: 10px 15px;
     border-radius: 8px;
 }
+
+.fidget {
+    padding: 15px;
+    border: 1px solid lightgrey;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.fidget:hover {
+    transform: scale(1.03);
+    transition: 0,2s;
+}
