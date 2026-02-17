@@ -51,6 +51,10 @@ main {
     border-radius: 8px;
 }
 
+.fidget .bouton {
+    backgrond-color: green;
+}
+
 .fidget {
     padding: 15px;
     border: 1px solid lightgrey;
