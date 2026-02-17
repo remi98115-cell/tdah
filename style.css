@@ -4,13 +4,12 @@ body {
 
 h1 {
     color: darkblue;
-}
-h1 {
     text-align: center;
 }
 
 h2 {
     color: green;
+    text-align: center;
 }
 
 h2:hover {
