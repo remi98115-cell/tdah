@@ -46,6 +46,6 @@ main {
 bouton {
     background-color: darkblue;
     color: white;
-    pading: 10px 15px;
+    padding: 10px 15px;
     border-radius: 8px;
 }
