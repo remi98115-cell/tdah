@@ -44,7 +44,7 @@ main {
     margin: 0 auto;
 }
 
-bouton {
+.bouton {
     background-color: darkblue;
     color: white;
     padding: 10px 15px;
