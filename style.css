@@ -4,6 +4,8 @@ body {
 
 h1 {
     color: darkblue;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 h2 {
